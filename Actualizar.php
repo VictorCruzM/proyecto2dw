@@ -31,10 +31,16 @@ $Email = filter_input(INPUT_POST, 'Email');
         <link rel="stylesheet" href="css/estilo.css">
         <link rel="stylesheet" href="css/menu.css">
         <link rel="stylesheet" href="css/banner.css">
+        <link rel="stylesheet" href="css/3dfont.css">
     </head>
     <body>
-    <center>
-        <a href="Formulario.php">Regresar al Formulario</a>
+    <section class="color-1">
+     <center>
+      <nav class="cl-effect-1">
+        <a href="Formulario.php">REGRESAR AL FORMULARIO</a>
+        
+        </nav>
     </center>
+    </section> 
     </body>
 </html>
